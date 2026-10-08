@@ -1,0 +1,66 @@
+﻿old_name,new_name
+Superintendent's Region,supt_region
+Division Number,div_num
+Division  Name,div_name
+School Number,sch_num
+School Name,sch_name
+"Model
+Type",sch_type
+"Overall
+Framework Score",overall_score
+Performance Category,perf_cat
+Federal Identification,fed_id
+Mastery,mastery_score
+Total Possible Mastery Points,master_possible
+Growth,growth_score
+Total Possible Growth Points,growth_possible
+Readiness,readiness_score
+Total Possible Readiness  Points,readiness_possible
+Graduation,grad_score
+Total Possible Graduation Points,grad_possible
+"Reading Performance
+(Mastery Index Points earned
+divided by number of Students)",reading_perf
+Reading Indicator Score (Performance multiplied by the prescribed weight),reading_ind_score
+"Math Performance
+(Mastery Index Points earned
+divided by number of Students)",math_perf
+"Math Indicator Score
+(Performance multiplied by the prescribed weight)",math_ind_score
+"Science Performance
+(Mastery Index Points earned
+divided by number of Students)",sci_perf
+"Science Indicator Score 
+(Performance multiplied by 10%)",sci_ind_score
+"English Learner Progress Rate
+(Percent of students making progress on two consecutive ACCESS tests)",el_prog_rate
+"English Learner Progress Indicator Score
+(Rate multiplied by 10%)",el_prog_ind_score
+"Reading Growth
+(Growth Index Points earned divided by the number of Students)",read_growth
+"Reading Growth Indicator Score
+(Growth multiplied by the prescribed weight)",read_growth_ind
+"Math Growth
+(Growth Index Points earned divided by the number of Students)",math_growth
+"Math Growth Indicator Score
+(Growth multiplied by the prescribed weight)",math_growth_ind
+"Chronic Absenteeism Rate
+(Percent of Students absent at least 10% of the year)",chron_abs
+"Chronic Absenteeism Indicator score
+(Rate of non-chronically absent students multiplied by the prescribed weight)",chron_abs_ind_score
+"Advanced Coursework in Middle School
+",adv_ms
+"Advanced Coursework Value 
+(Rate multiplied by the prescribed weight)",adv_val
+"6yr Federal Graduation Indicator with Applied Studies
+(6yr Graduation Rate of the 2023 cohort including Applied Studies diplomas as graduates)",fgi_6
+"6 yr FGI Indicator Score
+(6 yr FGI multiplied by 5%)",fgi_6_ind_score
+"3E Readiness Indicator
+(Points earned in the 3E framework: Enrollment, Employment, Enlistment)",eee
+"3E Readiness Indicator Score
+(3E Readiness multiplied by the prescribed weight)",eee_ind_score
+"Federal Graduation Indicator 
+(4 yr Graduation Rate of the 2025 cohort)",fgi_4
+"4 yr FGI Indicator Score
+(4 yr FGI multiplied by the prescribed weight)",fgi_4_ind_score
